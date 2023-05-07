@@ -7,3 +7,19 @@ body {
     padding-left: calc(50vw - 955px);
     padding-right: calc(50vw - 955px);
 }
+
+.gallery__title, .main__title {
+    text-align: center;
+    color: #000080ff;
+    letter-spacing: 0.1em;
+}
+.img-list {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.image {
+    width: 25%;
+}
