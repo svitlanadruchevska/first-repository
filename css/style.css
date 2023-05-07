@@ -13,6 +13,7 @@ body {
     color: #000080ff;
     letter-spacing: 0.1em;
 }
+
 .img-list {
     display: flex;
     list-style: none;
@@ -22,4 +23,11 @@ body {
 
 .image {
     width: 25%;
+}
+
+.link {
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    color: #000080ff;
 }
