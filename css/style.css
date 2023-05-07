@@ -2,3 +2,8 @@ body {
     font-family: Arial, serif;
     background-color: #F0F8FFFF;
 }
+
+.center {
+    padding-left: calc(50vw - 955px);
+    padding-right: calc(50vw - 955px);
+}
